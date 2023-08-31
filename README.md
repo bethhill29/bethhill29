@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bethhill29
 - 👀 I’m interested in data analytics and web development
-- 🌱 I’m currently learning flask for python with the intention of setting up my own website 
+- 🌱 I’m currently learning flask for python with the intention of setting up my own website, while there's not a lot on here at the moment more will be coming soon!
 
 
 <!---
